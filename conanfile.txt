@@ -1,0 +1,9 @@
+[requires]
+sdl/2.30.2
+fmt/10.2.1
+glew/2.2.0
+freetype/2.13.2
+
+[generators]
+CMakeDeps
+CMakeToolchain

@@ -1,0 +1,9 @@
+{
+    "version": 4,
+    "vendor": {
+        "conan": {}
+    },
+    "include": [
+        "C:\\Users\\tobaz\\Entwicklung\\TerrainGenerator\\TerrainGenerator\\build\\CMakePresets.json"
+    ]
+}

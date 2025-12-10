@@ -1,7 +1,5 @@
 ## 3D Landscape Generator – C++ & OpenGL
 
-A Bachelor Thesis by Tom Bazgar (FH Südwestfalen, 2016)
-
 ### 📖 Overview
 
 This project demonstrates procedural generation of 3D landscapes using the Perlin Noise algorithm.

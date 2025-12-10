@@ -53,7 +53,7 @@ Real-time adjustment of terrain and noise parameters
 Selection of Noise types:
 
 #### Standard Perlin Noise
-<img width="798" height="614" alt="image" src="https://github.com/user-attachments/assets/69b06fa5-8665-408e-b2cf-a6421c2d5e51" />
+<img width="537" height="376" alt="image" src="https://github.com/user-attachments/assets/69b06fa5-8665-408e-b2cf-a6421c2d5e51" />
 
 #### Billowy Noise
 <img width="537" height="376" alt="image" src="https://github.com/user-attachments/assets/5be7d5ea-a44d-46b4-81d9-741efad95160" />

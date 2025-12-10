@@ -1,8 +1,8 @@
-3D Landscape Generator – C++ & OpenGL
+## 3D Landscape Generator – C++ & OpenGL
 
 A Bachelor Thesis by Tom Bazgar (FH Südwestfalen, 2016)
 
-📖 Overview
+### 📖 Overview
 
 This project demonstrates procedural generation of 3D landscapes using the Perlin Noise algorithm.
 The system is written in C++, rendered with OpenGL, and uses SDL2 for window and input handling.
@@ -10,7 +10,7 @@ A custom GUI (also OpenGL-based) allows real-time manipulation of Noise- and ter
 
 The goal of the thesis was to show how complex natural environments such as mountains, valleys, heightmaps, and texture patterns can be generated algorithmically at runtime — instead of manually creating assets.
 
-✨ Features
+### ✨ Features
 🏞️ Procedural Terrain Generation
 
 Fully custom Perlin Noise implementation (1D & 2D, layered/fractal).
@@ -29,7 +29,7 @@ Weighting of layers
 
 Landscape size & vertex resolution
 
-🌄 Rendering & Graphics
+### 🌄 Rendering & Graphics
 
 OpenGL 3.0 rendering pipeline
 
@@ -41,7 +41,7 @@ Additional seamless procedural texture generated from modified Perlin Noise
 
 Perspective camera with movement & rotation (WASD + mouse look)
 
-🧰 GUI (Custom-built)
+### 🧰 GUI (Custom-built)
 
 Implemented entirely in OpenGL
 
@@ -59,7 +59,7 @@ Ridgid Noise
 
 Cosinus Noise (experimental)
 
-👨‍💻 Technology Stack
+### 👨‍💻 Technology Stack
 
 C++11
 
@@ -73,7 +73,7 @@ GLM (math library)
 
 FreeType (font rendering)
 
-🧪 Core Concepts Demonstrated
+### 🧪 Core Concepts Demonstrated
 
 Procedural content generation (PCG)
 
@@ -95,7 +95,7 @@ Real-time terrain mesh generation
 
 Camera system with relative mouse movement
 
-🎮 Controls
+### 🎮 Controls
 
 Flight Mode
 

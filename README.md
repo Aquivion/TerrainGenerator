@@ -8,7 +8,8 @@ This project demonstrates procedural generation of 3D landscapes using the Perli
 The system is written in C++, rendered with OpenGL, and uses SDL2 for window and input handling.
 A custom GUI (also OpenGL-based) allows real-time manipulation of Noise- and terrain-parameters.
 
-The goal of the thesis was to show how complex natural environments such as mountains, valleys, heightmaps, and texture patterns can be generated algorithmically at runtime — instead of manually creating assets.
+<img width="798" height="614" alt="image" src="https://github.com/user-attachments/assets/2f7b5fdd-db5d-4276-ab7f-66428f48df57" />
+
 
 ### ✨ Features
 🏞️ Procedural Terrain Generation
@@ -51,13 +52,18 @@ Real-time adjustment of terrain and noise parameters
 
 Selection of Noise types:
 
-Standard Perlin Noise
+#### Standard Perlin Noise
+<img width="798" height="614" alt="image" src="https://github.com/user-attachments/assets/69b06fa5-8665-408e-b2cf-a6421c2d5e51" />
 
-Billowy Noise
+#### Billowy Noise
+<img width="537" height="376" alt="image" src="https://github.com/user-attachments/assets/5be7d5ea-a44d-46b4-81d9-741efad95160" />
 
-Ridgid Noise
+#### Ridgid Noise
+<img width="567" height="407" alt="image" src="https://github.com/user-attachments/assets/31627b4e-132c-4b8b-a6d2-8ba03765f59b" />
 
-Cosinus Noise (experimental)
+#### Cosinus Noise (experimental)
+<img width="584" height="388" alt="image" src="https://github.com/user-attachments/assets/99c185fb-8dea-4dfd-8b94-74f6a99ea4d3" />
+
 
 ### 👨‍💻 Technology Stack
 

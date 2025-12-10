@@ -94,27 +94,3 @@ Bilinear interpolation & smoothing kernels for Noise
 Real-time terrain mesh generation
 
 Camera system with relative mouse movement
-
-### 🎮 Controls
-
-Flight Mode
-
-W / A / S / D – Move camera
-
-Mouse – Look around
-
-SHIFT – Move faster
-
-SPACE – Switch to cursor mode
-
-Cursor / GUI Mode
-
-Adjust all Noise parameters
-
-Toggle seamless texture
-
-Regenerate terrain
-
-Switch between Noise types
-
-SPACE – Back to flight mode
